@@ -1,7 +1,7 @@
 import { FormContainer, MinutesAmountInput, TaskInput } from './styles'
 
 import { useContext } from 'react'
-import { CycleContext } from '../..'
+import { CycleContext } from '../../../../contexts/CyclesContext'
 import { useFormContext } from 'react-hook-form'
 
 // Typagem automática do zod
