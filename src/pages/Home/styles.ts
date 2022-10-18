@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import { devices } from '../../styles/devices'
 
 export const HomeContainer = styled.main`
   flex: 1;
@@ -13,6 +14,10 @@ export const HomeContainer = styled.main`
     flex-direction: column;
     align-items: center;
     gap: 3.5rem;
+  }
+
+  @media (max-width: 768px) {
+    max-width: 50rem;
   }
 `
 export const BaseCountdownButton = styled.button`

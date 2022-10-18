@@ -3,5 +3,5 @@
 ## tecs
 
 - styled-components: Css declarativo
-- react-hook-form: Formilários 
+- react-hook-form: Formulários 
 - zod: Validação
