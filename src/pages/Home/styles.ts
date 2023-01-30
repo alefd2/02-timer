@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import { devices } from '../../styles/devices'
 
 export const HomeContainer = styled.main`
   flex: 1;
