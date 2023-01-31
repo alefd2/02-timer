@@ -34,5 +34,5 @@ Para fazer o deploy desse projeto rode
 
 
 ## 🔗 Links
-[https://time-test-alef.netlify.app/history](https://time-test-alef.netlify.app/history)
+[https://time-test-alef.netlify.app](https://time-test-alef.netlify.app)
 
